@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity implements CheckBox.OnChecke
 
     TextView textView;
     int numero=0;
+    String hola = "hola";
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
