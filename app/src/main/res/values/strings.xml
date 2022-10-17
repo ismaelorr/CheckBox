@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="nombre">Introduce nombre</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="edad">Introduce edad</string>
+    <string name="futbol">Fútbol</string>
+    <string name="basket">Basket</string>
+    <string name="tenis">Tenis</string>
+    <string name="voley">Voley</string>
+</resources>
